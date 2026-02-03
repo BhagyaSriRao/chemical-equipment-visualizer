@@ -1,0 +1,2 @@
+
+# Placeholder Django settings file
